@@ -48,7 +48,7 @@
 
 
 ## 安装&更新 ##
-    wget -q -N --no-check-certificate https://raw.githubusercontent.com/boluosaidong/SSR-Bash-Python/master/install1.sh && bash install.sh
+    wget -q -N --no-check-certificate https://raw.githubusercontent.com/boluosaidong/SSR-Bash-Python/master/installl.sh && bash installl.sh
 
 ## 自检（没有卵用😝） ##
     wget -q -N --no-check-certificate https://raw.githubusercontent.com/boluosaidong/SSR-Bash-Python/master/self-check.sh && bash self-check.sh
